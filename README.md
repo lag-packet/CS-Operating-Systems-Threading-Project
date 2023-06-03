@@ -23,4 +23,5 @@ Please note that plagiarism is a serious offense and can result in severe conseq
 If you wish to reference or use this project in any way, please ensure to provide proper attribution. This can usually be done in the form of a citation or a noticeable comment in your code.
 
 Remember, the goal of school projects is to learn and develop your own skills..
+
 ---
